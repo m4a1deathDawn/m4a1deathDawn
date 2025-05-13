@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm m4a1deathDawn
-### I'm just an amateur and gamer
+> I'm just an amateur and gamer
 
 <!--
 **m4a1deathDawn/m4a1deathDawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
