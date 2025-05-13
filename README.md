@@ -12,7 +12,15 @@
 > > **FPS** games such as: Battlefield, Call of Duty, The Finals.  
 > > **Single-player** games such as: KingdomCome:Deliverence, The Witcher 3, Red Dead Redemption 2.  
 > > **co-op** games such as: Terraria/Tmodloader, Warhammer 40k:Darktide, Deep Rock Galactic.  
-> > if you want to play with me or just add me as friend, [my steam profile link here](https://steamcommunity.com/id/m4a1_death-Dawn/)
+> > if you want to play with me or just add me as friend, [my steam profile link here](https://steamcommunity.com/id/m4a1_death-Dawn/).
+>
+> my computer hardwares:
+> > CPU: Inter Core I5 14600KF
+> > Motherboard: MSI B660M Mortar WIFI D4
+> > RAM: Micron DDR4 C9BLM 16G \* 2 **Overlock** 3900Mhz 15-18-18-36  
+> > GPU: Colorful iGame Geforce RTX 3080Ti Vulcan Xoc
+> > Power: Super Flower Leadex G 850W
+> 
 <!--
 **m4a1deathDawn/m4a1deathDawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
