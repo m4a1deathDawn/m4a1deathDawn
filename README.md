@@ -12,7 +12,7 @@
 > > **FPS** games such as: Battlefield, Call of Duty, The Finals.  
 > > **Single-player** games such as: KingdomCome:Deliverence, The Witcher 3, Red Dead Redemption 2.  
 > > **co-op** games such as: Terraria/Tmodloader, Warhammer 40k:Darktide, Deep Rock Galactic.  
-> > if you want to play with me or just add me as friend, [my steam profile link here]()
+> > if you want to play with me or just add me as friend, [my steam profile link here](https://steamcommunity.com/id/m4a1_death-Dawn/)
 <!--
 **m4a1deathDawn/m4a1deathDawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
