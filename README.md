@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm m4a1deathDawn
-> I'm just an amateur and gamer  
+> I'm just an amateur and gamer from CN  
 > learning programing by myself  
 > interested in game mods and plugins  
 > wish to make some helpful plugins and mods one day under self learning  
