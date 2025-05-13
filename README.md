@@ -9,9 +9,9 @@
 > I just start learning programming for one month, my level is limited, please give me some suggestions.  
 > my current goal is learning the necessary languages so that I can write programs.  
 > next I will use these languages to make some game mods and plugins.  
-> the language(s) I **already learned**: HTML, CSS.  
-> the language(s) I **am learning**: JavaScript.  
-> the language(s) I **will learn**: Python, C#.  
+> + the language(s) I **already learned**: HTML, CSS.  
+> + the language(s) I **am learning**: JavaScript.  
+> + the language(s) I **will learn**: Python, C#.  
 > > I start learn from HTML and CSS because they can help me create my own web pages and parse information from other web pages(by the way, CSS is so hard for me to use, I can only use CSS for simple style layout).  
 > > now I'm learning JavaScript because it will help me understand the web page better and also help me understand programming languages and syntax. after learning HTML and CSS, it will make the role of code more intuitive.  
 > > next I will start to learn Python because it can help me collect information from web pages(crawler) and also helps me make some plugins(I learned some Python in collage courses, but I want to start ro learn it again).  
@@ -26,25 +26,27 @@
 > as I say, I love playing video games. That's why I want to learn programming by myself. I wish that I can make some useful game mods and helpful plugins(and even maybe a game?) by myself one day.
 > 
 > I play **FPS**(first person shooter) games 60%-70% of the time,and the rest of time I perfer to **single-player** and **co-op** games.  
-> > **FPS** games such as: Battlefield, Call of Duty, The Finals.  
-> > **Single-player** games such as: KingdomCome:Deliverence, The Witcher 3, Red Dead Redemption 2.  
-> > **co-op** games such as: Terraria/Tmodloader, Warhammer 40k:Darktide, Deep Rock Galactic.  
+> > + **FPS** games such as: Battlefield, Call of Duty, The Finals.  
+> > + **Single-player** games such as: KingdomCome:Deliverence, The Witcher 3, Red Dead Redemption 2.  
+> > + **co-op** games such as: Terraria/Tmodloader, Warhammer 40k:Darktide, Deep Rock Galactic.  
+> >
 > > if you want to play with me or just add me as friend, [my steam profile link here](https://steamcommunity.com/id/m4a1_death-Dawn/).
 >
 > my computer hardwares:
-> > **CPU**: Inter Core I5 14600KF  
-> > **Motherboard**: MSI B660M Mortar WIFI D4  
-> > **RAM**: Micron DDR4 C9BLM 16G \* 2 **Overlock** 3900Mhz 15-18-18-36  
-> > **GPU**: Colorful iGame Geforce RTX 3080Ti Vulcan Xoc  
-> > **Power**: Super Flower Leadex G 850W  
+> > + **CPU**: Inter Core I5 14600KF  
+> > + **CPU Cooler**: Thermalright PA 120 SE  
+> > + **Motherboard**: MSI B660M Mortar WIFI D4  
+> > + **RAM**: Micron DDR4 C9BLM 16G \* 2 **Overlock** 3900Mhz 15-18-18-36  
+> > + **GPU**: Colorful iGame Geforce RTX 3080Ti Vulcan Xoc  
+> > + **Power**: Super Flower Leadex G 850W  
 >
 > I also build some game servers on my server computer  
 > > the games I have built servers for include: Terraria/Tmodloader, Project Zomboid, Minecraft. **As long as there is a server client, I can build a server**.  
 > > 
 > > my server hardwares:  
-> > > **CPU**: Inter Xoen E3 1230v2  
-> > > **Motherboard**: Gigabyte B75M-D3H  
-> > > **RAM**: Samsung DDR3 8G \* 4 1600Mhz  
+> > > + **CPU**: Inter Xoen E3 1230v2  
+> > > + **Motherboard**: Gigabyte B75M-D3H  
+> > > + **RAM**: Samsung DDR3 8G \* 4 1600Mhz  
 > > 
 > > **welcome to come to play games on my server if you are interested**.  
 >
