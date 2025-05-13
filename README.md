@@ -12,7 +12,7 @@
 > > **FPS** games such as: Battlefield, Call of Duty, The Finals.  
 > > **Single-player** games such as: KingdomCome:Deliverence, The Witcher 3, Red Dead Redemption 2.  
 > > **co-op** games such as: Terraria/Tmodloader, Warhammer 40k:Darktide, Deep Rock Galactic.  
-> > if you want to play with me or just add me as friend, <a href="https://steamcommunity.com/id/m4a1_death-Dawn/" target="_blank">[my steam profile link here]</a>.
+> > if you want to play with me or just add me as friend, [my steam profile link here](https://steamcommunity.com/id/m4a1_death-Dawn/).
 >
 > my computer hardwares:
 > > **CPU**: Inter Core I5 14600KF  
