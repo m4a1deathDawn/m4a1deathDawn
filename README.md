@@ -29,7 +29,7 @@
 > > > **Motherboard**: Gigabyte B75M-D3H  
 > > > **RAM**: Samsung DDR3 8G \* 4 1600Mhz  
 > > 
-> > **welcome to come to my server play games if you are interested**.  
+> > **welcome to come to play games on my server if you are interested**.  
 >
 > that's all about me in games.  
 <!--
