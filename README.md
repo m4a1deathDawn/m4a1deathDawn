@@ -20,7 +20,18 @@
 > > **RAM**: Micron DDR4 C9BLM 16G \* 2 **Overlock** 3900Mhz 15-18-18-36  
 > > **GPU**: Colorful iGame Geforce RTX 3080Ti Vulcan Xoc  
 > > **Power**: Super Flower Leadex G 850W  
-> 
+>
+> I also build some game servers on my server computer  
+> > the games I have built servers for include: Terraria/Tmodloader, Project Zomboid, Minecraft. **As long as there is a server client, I can build a server**.  
+> > 
+> > my server hardwares:  
+> > > **CPU**: Inter Xoen E3 1230v2  
+> > > **Motherboard**: Gigabyte B75M-D3H  
+> > > **RAM**: Samsung DDR3 8G \* 4  
+> > 
+> > **welcome to come to my server play games if you are interested**.  
+>
+> that's all about me in games.  
 <!--
 **m4a1deathDawn/m4a1deathDawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
