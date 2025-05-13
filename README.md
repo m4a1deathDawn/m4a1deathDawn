@@ -12,8 +12,14 @@
 > the language(s) I **already learned**: HTML, CSS.  
 > the language(s) I **am learning**: JavaScript.  
 > the language(s) I **will learn**: Python, C#.  
-> I start learn from HTML and CSS because it can help me create my own web pages and parse information from other web pages(by the way, CSS is so hard for me to use, I can only use CSS for simple style layout).  
-> now learning JavaScript
+> > I start learn from HTML and CSS because they can help me create my own web pages and parse information from other web pages(by the way, CSS is so hard for me to use, I can only use CSS for simple style layout).  
+> > now I'm learning JavaScript because it will help me understand the web page better and also help me understand programming languages and syntax. after learning HTML and CSS, it will make the role of code more intuitive.  
+> > next I will start to learn Python because it can help me collect information from web pages(crawler) and also helps me make some plugins(I learned some Python in collage courses, but I want to start ro learn it again).  
+> > another language I want to learn is C#, because the development of some game mods requires C#, such as **Tmodloader**, and the development of some software plugins also requires C#, such as **TeamSpeak**.
+>
+> **I am learning programming by myself. learn programming from some tutorial videos on BiliBili and from freeCodeCamp website. and search for information from runoob website and the languages' offical websites.**  
+> I hope I can finish learning these languages ​​as soon as possible, and be able to use them more proficiently and try to master them. I may learn more languages ​​later to meet my future goals.  
+> I hope you can give me more suggestions, I will be grateful.  
 
 
 ### Game Enthusiast🎮  
