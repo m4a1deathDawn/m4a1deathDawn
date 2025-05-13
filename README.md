@@ -27,7 +27,7 @@
 > > my server hardwares:  
 > > > **CPU**: Inter Xoen E3 1230v2  
 > > > **Motherboard**: Gigabyte B75M-D3H  
-> > > **RAM**: Samsung DDR3 8G \* 4  
+> > > **RAM**: Samsung DDR3 8G \* 4 1600Mhz  
 > > 
 > > **welcome to come to my server play games if you are interested**.  
 >
