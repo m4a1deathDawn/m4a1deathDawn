@@ -1,5 +1,8 @@
 ## Hi there 👋, I'm m4a1deathDawn
 > I'm just an amateur and gamer
+> learning programing by myself
+> interested in game mods and plugins
+> wish to make some helpful plugins and mods one day under self learning 
 
 <!--
 **m4a1deathDawn/m4a1deathDawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
