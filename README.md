@@ -1,4 +1,5 @@
 ## Hi there 👋, I'm m4a1deathDawn
+<a href="https://github.com/m4a1deathDawn/m4a1deathDawn/blob/main/README_CN.md">CN</a>
 > I'm just an amateur and gamer from CN🇨🇳  
 > learning programming by myself  
 > interested in game mods and plugins  
