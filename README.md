@@ -9,9 +9,9 @@
 > I just start learning programming for one month, my level is limited, please give me some suggestions.  
 > my current goal is learning the necessary languages so that I can write programs.  
 > next I will use these languages to make some game mods and plugins.  
-> + the language(s) I **already learned**: HTML, CSS.  
-> + the language(s) I **am learning**: JavaScript.  
-> + the language(s) I **will learn**: Python, C#.  
+> + the language(s) I **already learned**: HTML![Static Badge](https://img.shields.io/badge/HTML-red), CSS![Static Badge](https://img.shields.io/badge/CSS-purple).  
+> + the language(s) I **am learning**: JavaScript![Static Badge](https://img.shields.io/badge/JavaScript-yellow).  
+> + the language(s) I **will learn**: Python![Static Badge](https://img.shields.io/badge/Python-blue), C#![Static Badge](https://img.shields.io/badge/C%23-green).  
 > > I start learn from HTML and CSS because they can help me create my own web pages and parse information from other web pages(by the way, CSS is so hard for me to use, I can only use CSS for simple style layout).  
 > > now I'm learning JavaScript because it will help me understand the web page better and also help me understand programming languages and syntax. after learning HTML and CSS, it will make the role of code more intuitive.  
 > > next I will start to learn Python because it can help me collect information from web pages(crawler) and also helps me make some plugins(I learned some Python in collage courses, but I want to start to learn it again).  
