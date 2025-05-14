@@ -1,3 +1,4 @@
+<a href="https://github.com/m4a1deathDawn/m4a1deathDawn/blob/main/README.md">简体中文</a>
 ## Hi there 👋, I'm m4a1deathDawn
 > I'm just an amateur and gamer from CN🇨🇳  
 > learning programming by myself  
@@ -33,7 +34,7 @@
 > > if you want to play with me or just add me as friend, [my steam profile link here](https://steamcommunity.com/id/m4a1_death-Dawn/).
 >
 > my computer hardwares:
-> > + **CPU**: Inter Core I5 14600KF  
+> > + **CPU**: Inter Core I5 14600KF 14C(6P+8E)20T 5.3Ghz **voltage offset** -0.05v  
 > > + **CPU Cooler**: Thermalright PA 120 SE  
 > > + **Motherboard**: MSI B660M Mortar WIFI D4  
 > > + **RAM**: Micron DDR4 C9BLM 16G \* 2 **Overlock** 3900Mhz 15-18-18-36  
@@ -44,7 +45,7 @@
 > > the games I have built servers for include: Terraria/Tmodloader, Project Zomboid, Minecraft. **As long as there is a server client, I can build a server**.  
 > > 
 > > my server hardwares:  
-> > > + **CPU**: Inter Xoen E3 1230v2  
+> > > + **CPU**: Inter Xoen E3 1230v2 4C8T 3.7Ghz  
 > > > + **Motherboard**: Gigabyte B75M-D3H  
 > > > + **RAM**: Samsung DDR3 8G \* 4 1600Mhz  
 > > 
