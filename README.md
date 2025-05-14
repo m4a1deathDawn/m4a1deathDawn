@@ -51,6 +51,15 @@
 > > **welcome to come to play games on my server if you are interested**.  
 >
 > that's all about me in games.  
+
+
+### Another About Me  
+> sometimes I like to watch **anime**, I perfer to those anime that I'm interested in, if they are then I perfer to complete their novels and games, such as: **Steins;Gate**.  
+> sometimes I like to tinker with some technology that works for me, for example, I set up an **intranet penetration** on the **Openwrt** router so that I can play games on my desktop computer home through **Moonlight & Sunshine** GameStream at university.  
+> sometimes I lick to tinkering with computer hardware, for example, **overlock** my RAM memory, GPU core and video memory, **unlock** my laptop **CPU power limit**, and **modify cooling** of my laptop to water cooling.  
+> **I'm glad to make more friends if you are interesed in, please contract with me.**  
+
+## Thank You.
 <!--
 **m4a1deathDawn/m4a1deathDawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
