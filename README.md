@@ -11,8 +11,8 @@
 > 我现在的目标是学习一些必要的语言能让我编写程序  
 > 接下来我会用这些语言来制作一些游戏模组和插件  
 > + **已经学习**的语言：![Static Badge](https://img.shields.io/badge/HTML-red) ![Static Badge](https://img.shields.io/badge/CSS-purple)  
-> + **正在学习**的语言：![Static Badge](https://img.shields.io/badge/JavaScript-yellow)  
-> + **将要学习**的语言：![Static Badge](https://img.shields.io/badge/Python-blue) ![Static Badge](https://img.shields.io/badge/C%23-green)  
+> + **正在学习**的语言：![Static Badge](https://img.shields.io/badge/JavaScript-yellow) ![Static Badge](https://img.shields.io/badge/Python-blue)  
+> + **将要学习**的语言： ![Static Badge](https://img.shields.io/badge/C%23-green)  
 > > 我从HTML和CSS开始学习的原因是它们可以帮助我制作我的个人网页和能够解析其他网页上的信息（CSS这个对我来说很难用，只会拿来简单布局一下，美术天赋有限，不会很好的排版，内容和作用看得懂，但是叫我做好看的界面是做不出来的）  
 > > 现在我在学习JavaScript，因为它能帮我更深入了解网页，也能帮我了解编程语言和语法，在学习HTML和CSS后，学习它能让代码的作用更加直观的展现出来  
 > > 接下来我将开始学习Python，因为它能帮我收集网页信息（爬虫），而且能让我制作一些插件（Python之前我在大学课堂上面学过一些，但我想重新开始更加深入一些学习它）  
